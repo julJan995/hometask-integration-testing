@@ -26,7 +26,7 @@
 1. Run `yarn install` to install all dependencies.
 2. Run `yarn test` to check test command output.
 
-The concole output will show you the result.
+The console output will show you the result.
 
 NOTE: if you would like to run tests after every change in the code, you can run
 a command `yarn test:watch`.
