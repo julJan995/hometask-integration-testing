@@ -34,7 +34,7 @@ a command `yarn test:watch`.
 
 ## Test console output example
 
-yarn test
+```yarn test
 yarn run v1.22.15
 $ jest
  PASS  tests/rectangle.test.js
@@ -60,3 +60,4 @@ Snapshots:   0 total
 Time:        0.385 s, estimated 1 s
 Ran all test suites.
 ✨  Done in 1.21s.
+```
