@@ -1,0 +1,15 @@
+{
+  "name": "hometask-integration-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:julJan995/hometask-integration-testing.git",
+  "author": "Jul Jan <julia.janus114@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
